@@ -1,6 +1,6 @@
-package fan.juc.function;
+package fan.juc.basic;
 
-public class wait {
+public class Wait {
 
     private static volatile Object resourceA = new Object();
     private static volatile Object resourceB = new Object();
